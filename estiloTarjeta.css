@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: opx;
+}
+
+#container {
+    background-color: cadetblue;
+    margin: 60px auto;
+    width: 500px;
+    height: 400px;
+    border: 2x solid;
+}
+
+header {
+    left: 25px;
+    top: 60px;
+    /*z-index: 2;*/
+    position: relative;
+
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+section {
+    background-color: white;
+    left: 0px;
+    top: 20px;
+    position: inherit;
+    border: 1px solid royalblue;
+    padding-top: 60px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    /*z-index: 1;*/
+}
+
+.icono-ubicacion {
+    width: 10px;
+    height: 20px;
+}
